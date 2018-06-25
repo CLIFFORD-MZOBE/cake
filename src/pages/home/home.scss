@@ -1,3 +1,28 @@
 page-home {
+    ion-content{
+        background-image: url(https://www.cakemall.in/userdata/gfx/4335dc6d65081ccae9968d8d5af229a9.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+
+
+        
+    }
+    #happy{
+        h1{
+            color:rgb(148, 53, 53);
+            
+        }
+    }
+        #name{
+            h1{
+                color:rgb(148, 53, 53);
+                position: fixed;
+                bottom: 0px;
+            }
+        }
+        ion-title{
+            color:rgb(148, 53, 53);
+        }
+    
 
 }
